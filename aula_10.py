@@ -31,3 +31,13 @@
 #    print('Puxa não foi dessa vez, o número sorteado foi: {}'.format(num))
 
 # Desafio 29
+#kms = float(input('Insira sua velocidade atual: '))
+#vel = float(80)
+##multa = (kms - vel)
+#if kms <=80:
+#    print('OK, você está dentro do limite da via!')
+#else:
+#    print('Você foi multado por trafegar acima do limite (80km) permitido!')
+#    print('A multa pela infração é de: {}'.format((kms-vel) * 7,00))
+
+# Desafio 30
