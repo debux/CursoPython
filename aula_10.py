@@ -41,3 +41,19 @@
 #    print('A multa pela infração é de: {}'.format((kms-vel) * 7,00))
 
 # Desafio 30
+#num = int(input('Insira um número: '))
+#if num%2 == 0:
+#    print('O número escolhido é PAR!')
+#else:
+#    print('O número escolhido é ÍMPAR!')
+
+# Desafio 31
+km = int(input('Insira em kilometros a distancia da viagem: '))
+pass200 = (0,50 * km)
+passmore = (0,45 * km)
+if km <= 200:
+    print('O valor da passagem é: {}'.format(pass200))
+    5-+.+69
+
+else:
+    print('O valor da passage, é: {}'.format(passmore))
